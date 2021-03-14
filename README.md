@@ -77,7 +77,7 @@
 > 5. I have used GridSearchCV for Hyperparameter Tuning.</br>
 
 ### Lasso regression
-Ridge and Lasso regression are some of the simple techniques to reduce model complexity and prevent over-fitting which may result from simple linear regression.I have compiled the model in a pickle file called first-innings-score-lasso.pkl.
+I have used Random forest for our prediction purpose. Random forest is a robust machine learning technique which is used for regression ans classification task.It is an ensemble method meaning that it consists of large number of decision trees which can take there tasks independently and the whole absolute decision is taken by the root of the tree.
 
 ### Motivatiom:
-> Cricket lover. All credits to my god for assissting me.
+> Live free Travel free.
