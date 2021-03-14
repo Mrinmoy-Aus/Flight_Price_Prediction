@@ -15,18 +15,30 @@
 
 
 
-### Code Requirements
-> Flask==1.1.1</br>
-> gunicorn==19.9.0</br>
-> itsdangerous==1.1.0</br>
-> Jinja2==2.10.1</br>
-> MarkupSafe==1.1.1</br>
-> Werkzeug==0.15.5</br>
-> numpy>=1.9.2</br>
-> scipy>=0.15.1</br>
-> scikit-learn>=0.18</br>
-> matplotlib>=1.4.3</br>
-> pandas>=0.19</br>
+### Code Requirements</br>
+>appdirs==1.4.3</br>
+>certifi==2020.6.20</br>
+>click==7.1.2</br>
+>distlib==0.3.0</br>
+>Flask==1.1.2</br>
+>Flask-Cors==3.0.8</br>
+>gunicorn==20.0.4</br>
+>itsdangerous==1.1.0</br>
+>Jinja2==2.11.2</br>
+>joblib==0.15.1</br>
+>MarkupSafe==1.1.1</br>
+>numpy==1.18.1</br>
+>pandas==1.0.1</br>
+>python-dateutil==2.8.1</br>
+>pytz==2019.3</br>
+>scikit-learn==0.22.1</br>
+>scipy==1.4.1</br>
+>six==1.14.0</br>
+>virtualenv==20.0.7</br>
+>Werkzeug==1.0.1</br>
+>wincertstore==0.2</br>
+
+
 
 ### System Requirements
 > Os supported: Ubuntu 18.04.5 LTS, windows 10, windows 8</br>
@@ -46,7 +58,7 @@
 > python app.py
 
 ### Hosted on web by using Heroku platform click on the link to see it:
-> https://mrinmoy-ipl-prediction.herokuapp.com/
+> https://mrinmoy-flightprice-prediction.herokuapp.com/predict
 
 ### Screenshots
 
