@@ -70,7 +70,11 @@
 <img src="https://github.com/Mrinmoy-Aus/Flight_Price_Prediction/blob/main/working.gif">
 
 ### How it works behind the scene:
-> This project is a prediction system which helps us predicting sores of a IPL match. In the csv file the dataset which I have used to basically predict the scores on the basis of batting team, bowling team , overs, runs , wickets,runs scored in previous over,wickets taken at previous over. I have used Lasso regression which not only helps in reducing over-fitting but it can help us in feature selection.
+> 1. Since data is in form of excel file we have to use pandas read_excel to load the data</br>
+> 2. I have used OneHotEncoder for Handling Categorical Data.</br>
+> 3. I have used SelectKBest for Feature Selection.</br>
+> 4. I have used Random Forest fitting model.</br>
+> 5. I have used GridSearchCV for Hyperparameter Tuning.</br>
 
 ### Lasso regression
 Ridge and Lasso regression are some of the simple techniques to reduce model complexity and prevent over-fitting which may result from simple linear regression.I have compiled the model in a pickle file called first-innings-score-lasso.pkl.
