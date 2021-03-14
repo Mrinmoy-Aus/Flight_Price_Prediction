@@ -1,0 +1,16 @@
+body {
+    background-image: url("https://i.pinimg.com/originals/68/a9/ec/68a9ec2c467ac1323c66245f09b54b0e.jpg");
+    text-align: center;
+}
+
+.navbar {
+    background-color: #333333;
+}
+
+a {
+    color: #f1f9f9;
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
