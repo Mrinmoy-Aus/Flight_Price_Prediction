@@ -76,7 +76,7 @@
 > 4. I have used Random Forest fitting model.</br>
 > 5. I have used GridSearchCV for Hyperparameter Tuning.</br>
 
-### Lasso regression
+### Random Forest
 I have used Random forest for our prediction purpose. Random forest is a robust machine learning technique which is used for regression ans classification task.It is an ensemble method meaning that it consists of large number of decision trees which can take there tasks independently and the whole absolute decision is taken by the root of the tree.
 
 ### Motivatiom:
