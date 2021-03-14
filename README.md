@@ -77,7 +77,7 @@
 > 5. I have used GridSearchCV for Hyperparameter Tuning.</br>
 
 ### Random Forest
-I have used Random forest for our prediction purpose. Random forest is a robust machine learning technique which is used for regression ans classification task.It is an ensemble method meaning that it consists of large number of decision trees which can take there tasks independently and the whole absolute decision is taken by the root of the tree.I have compiled the model into a pickle file called flight_rf.pkl.
+I have used Random forest for our prediction purpose. Random forest is a robust machine learning technique which is used for regression and classification task.It is an ensemble method meaning that it consists of large number of decision trees which can take there tasks independently and the whole absolute decision is taken by the root of the tree.I have compiled the model into a pickle file called flight_rf.pkl.
 
 ### Motivatiom:
 > Live free Travel free.
